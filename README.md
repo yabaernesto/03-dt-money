@@ -1,6 +1,6 @@
 # DT Money
 
-<img style="width: 130px;" src="src/assets/logo.svg" />
+<img style="display: block; margin: 0 auto;" style="width: 130px;" src="src/assets/logo.svg" />
 
 App desenvolvida durante o Ignite ReactJS da Rocketseat.
 
